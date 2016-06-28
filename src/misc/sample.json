@@ -1,0 +1,6173 @@
+{
+ "query": {
+  "count": 343,
+  "created": "2016-06-27T13:27:44Z",
+  "lang": "en-US",
+  "results": {
+   "tr": [
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-03T16:30:00+0000"
+      },
+      "Pre-Show",
+      {
+       "rowspan": "2",
+       "content": "SpikeVegeta, feasel, Golden, Darkman78, tonic, Tech Crew"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2"
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      null
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-03T17:10:00+0000"
+      },
+      "Super Mario Sunshine",
+      {
+       "rowspan": "2",
+       "content": "Bounceyboy"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:23:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-03T18:43:00+0000"
+      },
+      "The Legend of Zelda: A Link Between Worlds",
+      {
+       "rowspan": "2",
+       "content": "Ahamplan"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:35:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-03T20:28:00+0000"
+      },
+      "Demon&#039;s Souls",
+      {
+       "rowspan": "2",
+       "content": "saintmillion"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:10:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-03T21:48:00+0000"
+      },
+      "Bastion",
+      {
+       "rowspan": "2",
+       "content": "Vulajin"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Any% vs NG+ Any% Bid War"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-03T22:18:00+0000"
+      },
+      "Mighty Switch Force! HyperDrive Edition",
+      {
+       "rowspan": "2",
+       "content": "TonyOgbot"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "NG+ All Hyper Levels"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-03T23:03:00+0000"
+      },
+      "Donkey Kong Country: Tropical Freeze",
+      {
+       "rowspan": "2",
+       "content": "Kruncha, NotSoNewby, Enkaybee, michael_goldfish, MooMooAkai, spikevegeta"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:35:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T00:48:00+0000"
+      },
+      "Metroid Prime",
+      {
+       "rowspan": "2",
+       "content": "JustinDM"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:23:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T02:21:00+0000"
+      },
+      "Catherine",
+      {
+       "rowspan": "2",
+       "content": "Ghoul02"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "Babel 1 Player 2 Controllers"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T03:01:00+0000"
+      },
+      "New Super Mario Bros.",
+      {
+       "rowspan": "2",
+       "content": "altabiscuit"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T03:41:00+0000"
+      },
+      "New Super Mario Bros. 2",
+      {
+       "rowspan": "2",
+       "content": "EeveeSpirit"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:32:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T04:18:00+0000"
+      },
+      "Mario Kart: Double Dash!!",
+      {
+       "rowspan": "2",
+       "content": "druvan7"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:38:00 "
+      },
+      "150cc All Cup Tour"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T05:01:00+0000"
+      },
+      "FAST Racing NEO",
+      {
+       "rowspan": "2",
+       "content": "TonesBalones"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "Championship Hypersonic"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T05:46:00+0000"
+      },
+      "1080 Avalanche",
+      {
+       "rowspan": "2",
+       "content": "Thursday"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:34:00 "
+      },
+      "All Match Races"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T06:25:00+0000"
+      },
+      "Tony Hawk&#039;s Underground",
+      {
+       "rowspan": "2",
+       "content": "Fivves"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:45:00 "
+      },
+      "Any% Beginner"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T07:15:00+0000"
+      },
+      "The Rapid Angel",
+      {
+       "rowspan": "2",
+       "content": "CavemanDCJ"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:24:00 "
+      },
+      "Any% Ayane"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T07:44:00+0000"
+      },
+      "Crystal&#039;s Pony Tale",
+      {
+       "rowspan": "2",
+       "content": "SecksWrecks"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:15:00 "
+      },
+      "Any% Easy"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T08:09:00+0000"
+      },
+      "Ed, Edd, &#039;n Eddy: The Mis-Edventures",
+      {
+       "rowspan": "2",
+       "content": "Konasumi"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T08:49:00+0000"
+      },
+      "Harry Potter and the Chamber of Secrets",
+      {
+       "rowspan": "2",
+       "content": "pok3monrocks"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:00:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T09:54:00+0000"
+      },
+      "Barbie Game Girl",
+      {
+       "rowspan": "2",
+       "content": "johncarls"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:12:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T10:16:00+0000"
+      },
+      "Speedy Gonzales: Los Gatos Bandidos",
+      {
+       "rowspan": "2",
+       "content": "Keverage"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:29:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T10:55:00+0000"
+      },
+      "The Flintstones: The Surprise at Dinosaur Peak!",
+      {
+       "rowspan": "2",
+       "content": "Prince_Leaf"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T11:25:00+0000"
+      },
+      "The Land Before Time",
+      {
+       "rowspan": "2",
+       "content": "CardsOfTheHeart"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:15:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T11:50:00+0000"
+      },
+      "The Incredible Crash Dummies",
+      {
+       "rowspan": "2",
+       "content": "DarkTerrex"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:21:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T12:16:00+0000"
+      },
+      "The Goonies II",
+      {
+       "rowspan": "2",
+       "content": "Dragondarch, Darkwing Duck"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T12:41:00+0000"
+      },
+      "Claymates",
+      {
+       "rowspan": "2",
+       "content": "error72"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:45:00 "
+      },
+      "Any% Warpless"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T13:31:00+0000"
+      },
+      "ActRaiser",
+      {
+       "rowspan": "2",
+       "content": "Straevaras"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:32:00 "
+      },
+      "Professional Mode"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T14:08:00+0000"
+      },
+      "Sparkster",
+      {
+       "rowspan": "2",
+       "content": "Ivan"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Beat the Game Normal"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T14:43:00+0000"
+      },
+      "Hagane",
+      {
+       "rowspan": "2",
+       "content": "Omnigamer"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T15:08:00+0000"
+      },
+      "Skyblazer",
+      {
+       "rowspan": "2",
+       "content": "Omnigamer"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T15:48:00+0000"
+      },
+      "Mega Man 8",
+      {
+       "rowspan": "2",
+       "content": "soothingplumtea"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T16:48:00+0000"
+      },
+      "Mega Man 3",
+      {
+       "rowspan": "2",
+       "content": "fastatcc"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T17:33:00+0000"
+      },
+      "Mega Man 5",
+      {
+       "rowspan": "2",
+       "content": "almondcity"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:39:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T18:22:00+0000"
+      },
+      "Setup Block 1",
+      {
+       "rowspan": "2",
+       "content": "Tech Crew"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      null
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T19:17:00+0000"
+      },
+      "Mighty Gunvolt",
+      {
+       "rowspan": "2",
+       "content": "Trogdor"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "All Stages (Beck)"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T19:47:00+0000"
+      },
+      "Ape Escape",
+      {
+       "rowspan": "2",
+       "content": "Hornlitz"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:51:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T20:43:00+0000"
+      },
+      "Spyro: Year of the Dragon",
+      {
+       "rowspan": "2",
+       "content": "wedc517, orsa"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T21:23:00+0000"
+      },
+      "Ratchet & Clank",
+      {
+       "rowspan": "2",
+       "content": "Raikaru"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:51:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T22:19:00+0000"
+      },
+      "The Legend of Zelda: Link&#039;s Awakening DX",
+      {
+       "rowspan": "2",
+       "content": "zorlaxseven"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:30:00 "
+      },
+      "100%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-04T23:59:00+0000"
+      },
+      "The Legend of Zelda: Four Swords Adventures",
+      {
+       "rowspan": "2",
+       "content": "Zmaster91"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  2:20:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T02:29:00+0000"
+      },
+      "BioShock",
+      {
+       "rowspan": "2",
+       "content": "Blood_Thunder"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T03:34:00+0000"
+      },
+      "Dishonored",
+      {
+       "rowspan": "2",
+       "content": "DrTChops"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T04:24:00+0000"
+      },
+      "Wolfenstein: The New Order",
+      {
+       "rowspan": "2",
+       "content": "Blood_Thunder"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:50:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T06:24:00+0000"
+      },
+      "Amnesia: The Dark Descent",
+      {
+       "rowspan": "2",
+       "content": "SavageDreamLord"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:00:00 "
+      },
+      "Any% Glitchless"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T07:34:00+0000"
+      },
+      "Star Wars: Dark Forces",
+      {
+       "rowspan": "2",
+       "content": "psychoripper"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:25:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T08:09:00+0000"
+      },
+      "Star Wars: Jedi Knight - Jedi Academy",
+      {
+       "rowspan": "2",
+       "content": "CovertMuffin"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:42:00 "
+      },
+      "Padawan Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T09:01:00+0000"
+      },
+      "Star Wars: Knights of the Old Republic",
+      {
+       "rowspan": "2",
+       "content": "glasnonck"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:40:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T10:51:00+0000"
+      },
+      "Tom Clancy&#039;s Splinter Cell: Blacklist",
+      {
+       "rowspan": "2",
+       "content": "Studio, Shaddex"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T11:51:00+0000"
+      },
+      "Jet Set Radio",
+      {
+       "rowspan": "2",
+       "content": "Maxylobes"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:45:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T12:41:00+0000"
+      },
+      "Oddworld Abe&#039;s Oddysee: New&#039;n&#039; Tasty",
+      {
+       "rowspan": "2",
+       "content": "Starwin"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:15:00 "
+      },
+      "Glitchless Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T14:06:00+0000"
+      },
+      "Oddworld: Stranger&#039;s Wrath",
+      {
+       "rowspan": "2",
+       "content": "Vaati"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T15:06:00+0000"
+      },
+      "Curse of Issyos",
+      {
+       "rowspan": "2",
+       "content": "pcull44444, Mr_Weables"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:18:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T15:34:00+0000"
+      },
+      "Castlevania 64",
+      {
+       "rowspan": "2",
+       "content": "ty2358"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "Carrie vs Reinhardt Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T16:39:00+0000"
+      },
+      "Castlevania: Aria of Sorrow",
+      {
+       "rowspan": "2",
+       "content": "_VB"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Soma All Bosses"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T17:14:00+0000"
+      },
+      "Castlevania: Dawn of Sorrow",
+      {
+       "rowspan": "2",
+       "content": "romscout"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "Low% Souls"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T18:04:00+0000"
+      },
+      "Castlevania: Dracula X",
+      {
+       "rowspan": "2",
+       "content": "lildingus"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Any% Catacomb Shortcut"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T18:29:00+0000"
+      },
+      "Setup Block 2",
+      {
+       "rowspan": "2",
+       "content": "Tech Crew"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      null
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T19:39:00+0000"
+      },
+      "Freedom Planet",
+      {
+       "rowspan": "2",
+       "content": "Fladervy"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:15:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:44:00 "
+      },
+      "Milla - Hard"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T20:33:00+0000"
+      },
+      "Guacamelee: Gold Edition",
+      {
+       "rowspan": "2",
+       "content": "Grimelios"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T21:23:00+0000"
+      },
+      "Dustforce DX",
+      {
+       "rowspan": "2",
+       "content": "Sivade35"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:15:00 "
+      },
+      "SS All Levels"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T22:48:00+0000"
+      },
+      "Jumper Two",
+      {
+       "rowspan": "2",
+       "content": "Hornlitz"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:25:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T23:23:00+0000"
+      },
+      "Celeste",
+      {
+       "rowspan": "2",
+       "content": "SecksWrecks"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:05:00 "
+      },
+      "100%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-05T23:38:00+0000"
+      },
+      "Prompt",
+      {
+       "rowspan": "2",
+       "content": "ChaosArtisan"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:15:00 "
+      },
+      "All Keys"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T00:03:00+0000"
+      },
+      "Escape Goat 2",
+      {
+       "rowspan": "2",
+       "content": "Vulajin"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T00:33:00+0000"
+      },
+      "Super Meat Boy",
+      {
+       "rowspan": "2",
+       "content": "warm_ham"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:41:00 "
+      },
+      "Dark Ending"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T01:24:00+0000"
+      },
+      "Defunct",
+      {
+       "rowspan": "2",
+       "content": "Celestics"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:24:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T01:58:00+0000"
+      },
+      "Momodora: Reverie Under the Moonlight",
+      {
+       "rowspan": "2",
+       "content": "Halfcoordinated"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "Any% Insane 1-Handed"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T02:48:00+0000"
+      },
+      "Cloudbuilt",
+      {
+       "rowspan": "2",
+       "content": "Wobs23"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Defiance Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T03:28:00+0000"
+      },
+      "Boson X",
+      {
+       "rowspan": "2",
+       "content": "ArcanicEight"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:10:00 "
+      },
+      "Any% ASPA"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T03:43:00+0000"
+      },
+      "Braid",
+      {
+       "rowspan": "2",
+       "content": "cwolf20"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:33:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T04:26:00+0000"
+      },
+      "Contra III The Alien Wars",
+      {
+       "rowspan": "2",
+       "content": "TheDrifter18"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:25:00 "
+      },
+      "Hard Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T05:01:00+0000"
+      },
+      "Demon&#039;s Crest",
+      {
+       "rowspan": "2",
+       "content": "LP3Cinema"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "100%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T06:01:00+0000"
+      },
+      "DinoCity",
+      {
+       "rowspan": "2",
+       "content": "Mecha Richter"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:25:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T06:31:00+0000"
+      },
+      "Ty the Tasmanian Tiger",
+      {
+       "rowspan": "2",
+       "content": "Kythol"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:05:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T07:46:00+0000"
+      },
+      "Silent Hill 3",
+      {
+       "rowspan": "2",
+       "content": "Bawkbasoup"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T08:51:00+0000"
+      },
+      "Resident Evil 2",
+      {
+       "rowspan": "2",
+       "content": "Bawkbasoup"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:05:00 "
+      },
+      "Leon B or Claire B"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T10:01:00+0000"
+      },
+      "LittleBigPlanet",
+      {
+       "rowspan": "2",
+       "content": "RbdJellyfish"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:05:00 "
+      },
+      "Any% No-Overlord"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T11:11:00+0000"
+      },
+      "Burning Rangers",
+      {
+       "rowspan": "2",
+       "content": "soothingplumtea"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T11:56:00+0000"
+      },
+      "Bomberman 64",
+      {
+       "rowspan": "2",
+       "content": "LivelyRaccoon"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T12:31:00+0000"
+      },
+      "Donkey Kong 64",
+      {
+       "rowspan": "2",
+       "content": "2dos"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T13:21:00+0000"
+      },
+      "Wario World",
+      {
+       "rowspan": "2",
+       "content": "Dangerless"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T14:21:00+0000"
+      },
+      "Super Mario 64 DS",
+      {
+       "rowspan": "2",
+       "content": "HastyAether"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:05:00 "
+      },
+      "50 Star "
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T15:36:00+0000"
+      },
+      "Runny Egg",
+      {
+       "rowspan": "2",
+       "content": "danray"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Eggernaut"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T16:16:00+0000"
+      },
+      "Sonic Colors DS",
+      {
+       "rowspan": "2",
+       "content": "Diamond"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T17:01:00+0000"
+      },
+      "Sonic Riders",
+      {
+       "rowspan": "2",
+       "content": "Celestics"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:18:00 "
+      },
+      "Heroes or Babylon Story"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T17:29:00+0000"
+      },
+      "Sonic Adventure 2: Battle",
+      {
+       "rowspan": "2",
+       "content": "Talon2461"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:45:00 "
+      },
+      "Hero Story"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T18:24:00+0000"
+      },
+      "Sonic the Hedgehog (2006)",
+      {
+       "rowspan": "2",
+       "content": "tripl3ag3nt"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:10:00 "
+      },
+      "Sonic&#039;s Story (No MSG)"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T19:44:00+0000"
+      },
+      "Metroid Zero Mission",
+      {
+       "rowspan": "2",
+       "content": "MickeyGnou"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T20:39:00+0000"
+      },
+      "Donkey Kong Country 3",
+      {
+       "rowspan": "2",
+       "content": "V0oid, BluntBunny"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T21:39:00+0000"
+      },
+      "Chip &#039;n Dale: Rescue Rangers 2",
+      {
+       "rowspan": "2",
+       "content": "GameOfTheWeek"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:25:00 "
+      },
+      "Any% One Controller"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T22:09:00+0000"
+      },
+      "Disney&#039;s The Little Mermaid",
+      {
+       "rowspan": "2",
+       "content": "johncarls"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:09:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T22:23:00+0000"
+      },
+      "DuckTales 2",
+      {
+       "rowspan": "2",
+       "content": "NME"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:17:00 "
+      },
+      "Any% Difficult"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T22:45:00+0000"
+      },
+      "Mickey Mousecapade",
+      {
+       "rowspan": "2",
+       "content": "CTConqueror"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:12:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T23:02:00+0000"
+      },
+      "Hook",
+      {
+       "rowspan": "2",
+       "content": "LivelyRaccoon"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-06T23:42:00+0000"
+      },
+      "Quackshot Starring Donald Duck",
+      {
+       "rowspan": "2",
+       "content": "YellowKillerBee"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:20:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T00:22:00+0000"
+      },
+      "Tetris Attack",
+      {
+       "rowspan": "2",
+       "content": "Darkwing Duck, FFR Pro 21, Edobean, CardsOfTheHeart"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:15:00 "
+      },
+      "V-Hard"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T00:47:00+0000"
+      },
+      "Final Doom: The Plutonia Experiment",
+      {
+       "rowspan": "2",
+       "content": "Dime"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "UV-Speed"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T01:37:00+0000"
+      },
+      "Setup Block 3",
+      {
+       "rowspan": "2",
+       "content": "Tech Crew"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      null
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T02:37:00+0000"
+      },
+      "Strife",
+      {
+       "rowspan": "2",
+       "content": "Cubeface"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:25:00 "
+      },
+      "Any% Veteran Edition"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T03:12:00+0000"
+      },
+      "Hexen",
+      {
+       "rowspan": "2",
+       "content": "Cubeface"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:45:00 "
+      },
+      "Any% Bid War"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T04:07:00+0000"
+      },
+      "System Shock",
+      {
+       "rowspan": "2",
+       "content": "Fearful Ferret"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Enhanced Edition Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T04:37:00+0000"
+      },
+      "Judge Dredd: Dredd vs. Death",
+      {
+       "rowspan": "2",
+       "content": "Shaddex, DrTChops"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:46:00 "
+      },
+      "CO-OP JURY"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T05:30:00+0000"
+      },
+      "Deus Ex",
+      {
+       "rowspan": "2",
+       "content": "Heinki"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:07:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:00:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T06:35:00+0000"
+      },
+      "Jak and Daxter",
+      {
+       "rowspan": "2",
+       "content": "Bonesaw577"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  2:15:00 "
+      },
+      "100%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T08:55:00+0000"
+      },
+      "Klonoa: Door to Phantomile",
+      {
+       "rowspan": "2",
+       "content": "CavemanDCJ"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T10:00:00+0000"
+      },
+      "Max Payne 2",
+      {
+       "rowspan": "2",
+       "content": "saintmillion"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "Any% Dead on Arrival"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T10:50:00+0000"
+      },
+      "Serious Sam Double D",
+      {
+       "rowspan": "2",
+       "content": "Yoshipro101"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "Any% XXL"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T11:30:00+0000"
+      },
+      "Serious Sam: The Random Encounter",
+      {
+       "rowspan": "2",
+       "content": "altabiscuit"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T12:10:00+0000"
+      },
+      "Star Fox: Assault",
+      {
+       "rowspan": "2",
+       "content": "Mr_Shasta"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      "Bronze Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T13:05:00+0000"
+      },
+      "Zelda II: The Adventure of Link",
+      {
+       "rowspan": "2",
+       "content": "Simpol, Pro_JN"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:05:00 "
+      },
+      "Any% Warpless"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T14:15:00+0000"
+      },
+      "Bionic Commando",
+      {
+       "rowspan": "2",
+       "content": "PJ"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "100%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T14:55:00+0000"
+      },
+      "Shatterhand",
+      {
+       "rowspan": "2",
+       "content": "Klaige"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T15:35:00+0000"
+      },
+      "Rygar",
+      {
+       "rowspan": "2",
+       "content": "ShiningDragoon, Darkwing Duck"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:24:00 "
+      },
+      "Glitchless Deathwarps"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T16:19:00+0000"
+      },
+      "Streemerz",
+      {
+       "rowspan": "2",
+       "content": "Andy, tonic"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:20:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:07:00 "
+      },
+      "16 Bags of Ca$h"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T16:31:00+0000"
+      },
+      "Ironsword: Wizards and Warriors II",
+      {
+       "rowspan": "2",
+       "content": "Skavenger216, feasel, Gyre, JamEvil"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:11:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T16:47:00+0000"
+      },
+      "Gimmick!",
+      {
+       "rowspan": "2",
+       "content": "Aquas"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:14:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T17:06:00+0000"
+      },
+      "Demon Sword",
+      {
+       "rowspan": "2",
+       "content": "digshake"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:16:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T17:42:00+0000"
+      },
+      "Gargoyle&#039;s Quest 2",
+      {
+       "rowspan": "2",
+       "content": "RogueLink"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:20:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:33:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T18:25:00+0000"
+      },
+      "Tetris: The Grand Master Series Exhibition",
+      {
+       "rowspan": "2",
+       "content": "aperturegrillz, Poochy.EXE, KevinDDR, EnchantressOfNumbers, Qlex"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:15:00 "
+      },
+      "Exhibition (modes flexible)"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T19:50:00+0000"
+      },
+      "Trials Fusion",
+      {
+       "rowspan": "2",
+       "content": "The Blaze Jp, Vantier, TheBoshos"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:30:00 "
+      },
+      "GDQ and Retro Games Theme Trials Expedition"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T21:30:00+0000"
+      },
+      "The Elder Scrolls II: Daggerfall",
+      {
+       "rowspan": "2",
+       "content": "Puri_Puri"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:32:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T22:22:00+0000"
+      },
+      "The Elder Scrolls III: Morrowind",
+      {
+       "rowspan": "2",
+       "content": "AlbinoAlbatross"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:20:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:38:00 "
+      },
+      "All Main Quests"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-07T23:10:00+0000"
+      },
+      "The Elder Scrolls V: Skyrim",
+      {
+       "rowspan": "2",
+       "content": "DrTChops"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:48:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T00:08:00+0000"
+      },
+      "Fallout 3",
+      {
+       "rowspan": "2",
+       "content": "progamingwithed"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:18:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T00:36:00+0000"
+      },
+      "Fallout 4",
+      {
+       "rowspan": "2",
+       "content": "BubblesDelFuego"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:10:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T01:56:00+0000"
+      },
+      "Mark Of The Ninja",
+      {
+       "rowspan": "2",
+       "content": "Vyreck"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:55:00 "
+      },
+      "NG No-OoB Obake"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T03:01:00+0000"
+      },
+      "Crypt of the NecroDancer",
+      {
+       "rowspan": "2",
+       "content": "SpootyBiscuit, mudjoe2"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Cadence All Zones (Seeded)"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T03:36:00+0000"
+      },
+      "Setup Block 4",
+      {
+       "rowspan": "2",
+       "content": "Tech Crew"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:15:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:45:00 "
+      },
+      null
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T04:31:00+0000"
+      },
+      "Trine 3: Artifacts of Power",
+      {
+       "rowspan": "2",
+       "content": "progamingwithed, Seak1ng, Fearful Ferret"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:10:00 "
+      },
+      "Classic Co-op Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T05:51:00+0000"
+      },
+      "Shantae: Risky&#039;s Revenge",
+      {
+       "rowspan": "2",
+       "content": "toucansham"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:22:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T06:23:00+0000"
+      },
+      "Magrunner: Dark Pulse",
+      {
+       "rowspan": "2",
+       "content": "MattyIce3131"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:00:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T07:33:00+0000"
+      },
+      "Pause Ahead",
+      {
+       "rowspan": "2",
+       "content": "doubletaco"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:05:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T07:43:00+0000"
+      },
+      "Super Amazing Wagon Adventure",
+      {
+       "rowspan": "2",
+       "content": "Raelcun"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:15:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T08:08:00+0000"
+      },
+      "Monster Bash",
+      {
+       "rowspan": "2",
+       "content": "CapnClever"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:30:00 "
+      },
+      "Episode 1 Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T08:43:00+0000"
+      },
+      "Ghostbusters",
+      {
+       "rowspan": "2",
+       "content": "Breakdown"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "Any% Normal"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T09:23:00+0000"
+      },
+      "Jewel Master",
+      {
+       "rowspan": "2",
+       "content": "Breakdown"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:15:00 "
+      },
+      "Any% Normal"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T09:43:00+0000"
+      },
+      "Twinkle Tale",
+      {
+       "rowspan": "2",
+       "content": "Sent"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:23:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T10:11:00+0000"
+      },
+      "Bubble Ghost",
+      {
+       "rowspan": "2",
+       "content": "Protomagicalgirl"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:09:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T10:30:00+0000"
+      },
+      "Trip World",
+      {
+       "rowspan": "2",
+       "content": "NachoYacopu"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:10:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T10:45:00+0000"
+      },
+      "Dragon Egg",
+      {
+       "rowspan": "2",
+       "content": "infinitemystery"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:15:00 "
+      },
+      "Any% Easy"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T11:05:00+0000"
+      },
+      "Ninja Gaiden Shadow",
+      {
+       "rowspan": "2",
+       "content": "Protomagicalgirl"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:16:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T11:31:00+0000"
+      },
+      "Ultraman Ball",
+      {
+       "rowspan": "2",
+       "content": "Mundungu"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:10:00 "
+      },
+      "Beat the Game"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T11:46:00+0000"
+      },
+      "Kirby & the Amazing Mirror",
+      {
+       "rowspan": "2",
+       "content": "swordsmankirby, GravelCrusher"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:36:00 "
+      },
+      "Co-op Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T12:32:00+0000"
+      },
+      "Kirby Air Ride",
+      {
+       "rowspan": "2",
+       "content": "Pearstrike"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:24:00 "
+      },
+      "Air Ride All Tracks"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T13:11:00+0000"
+      },
+      "Kirby: Nightmare in Dream Land",
+      {
+       "rowspan": "2",
+       "content": "Mr_Shasta"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:15:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T14:06:00+0000"
+      },
+      "Kirby&#039;s Dream Land",
+      {
+       "rowspan": "2",
+       "content": "Protomagicalgirl, TrUShade, eBloodyCandy"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:14:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T14:25:00+0000"
+      },
+      "Super Mario Land",
+      {
+       "rowspan": "2",
+       "content": "Protomagicalgirl"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:16:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T14:56:00+0000"
+      },
+      "Super Mario Bros. 3",
+      {
+       "rowspan": "2",
+       "content": "CujoIHSV"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:15:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:18:00 "
+      },
+      "100%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T16:19:00+0000"
+      },
+      "Super Mario World",
+      {
+       "rowspan": "2",
+       "content": "xsvArea51, Bramz, truman"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:40:00 "
+      },
+      "All Castles"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T17:09:00+0000"
+      },
+      "Setup Block 5",
+      {
+       "rowspan": "2",
+       "content": "Tech Crew"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      null
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T18:04:00+0000"
+      },
+      "Mega Man Zero 2",
+      {
+       "rowspan": "2",
+       "content": "tonic"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:05:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T19:14:00+0000"
+      },
+      "Mega Man X3",
+      {
+       "rowspan": "2",
+       "content": "Iceless"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      "100%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T20:14:00+0000"
+      },
+      "Mega Man X2",
+      {
+       "rowspan": "2",
+       "content": "Trogdor"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      "Low%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T21:24:00+0000"
+      },
+      "Mega Man ZX Advent",
+      {
+       "rowspan": "2",
+       "content": "Gymfreak739"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:20:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:06:00 "
+      },
+      "Any% (Beginner, Grey)"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T22:40:00+0000"
+      },
+      "Super Mario Maker",
+      {
+       "rowspan": "2",
+       "content": "mitchflowerpower, Andy, xsvArea51, Iateyourpie, GameJ06, usedpizza, Kronicsauce, grandpoobear"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:00:00 "
+      },
+      "Blind Custom Team Relay Race"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-08T23:45:00+0000"
+      },
+      "Pepsiman",
+      {
+       "rowspan": "2",
+       "content": "theboyks"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:27:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T00:22:00+0000"
+      },
+      "Setup Block 6",
+      {
+       "rowspan": "2",
+       "content": "Tech Crew"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      null
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T01:17:00+0000"
+      },
+      "The Legend of Zelda: Ocarina of Time",
+      {
+       "rowspan": "2",
+       "content": "dannyb21892"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  3:45:00 "
+      },
+      "Glitchless Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T05:07:00+0000"
+      },
+      "Pikmin",
+      {
+       "rowspan": "2",
+       "content": "Emily Brooks"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:30:00 "
+      },
+      "All Parts"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T06:47:00+0000"
+      },
+      "Trauma Center Second Opinion",
+      {
+       "rowspan": "2",
+       "content": "Irisjoker"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:40:00 "
+      },
+      "Any% Normal"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T08:32:00+0000"
+      },
+      "Child of Light",
+      {
+       "rowspan": "2",
+       "content": "takaze"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:05:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:35:00 "
+      },
+      "NG Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T10:22:00+0000"
+      },
+      "Final Fantasy Adventure",
+      {
+       "rowspan": "2",
+       "content": "opus"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:15:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:42:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T11:14:00+0000"
+      },
+      "Aladdin",
+      {
+       "rowspan": "2",
+       "content": "Ribbedkilla, Countdown42, pcull44444"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:20:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T11:44:00+0000"
+      },
+      "Typing of the Dead",
+      {
+       "rowspan": "2",
+       "content": "peaches_"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:35:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T12:39:00+0000"
+      },
+      "Diablo 2: Lord of Destruction",
+      {
+       "rowspan": "2",
+       "content": "MrLlamaSC"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:20:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  2:00:00 "
+      },
+      "Any% Normal Druid"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T14:49:00+0000"
+      },
+      "Pokémon Red",
+      {
+       "rowspan": "2",
+       "content": "Gunnermaniac3, Keizaron, ExtraTricky, Charlie Armitz"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  2:10:00 "
+      },
+      "Any% Glitchless"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T17:09:00+0000"
+      },
+      "Setup Block 7",
+      {
+       "rowspan": "2",
+       "content": "Tech Crew"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:50:00 "
+      },
+      null
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T18:09:00+0000"
+      },
+      "TAS Block",
+      {
+       "rowspan": "2",
+       "content": "dwangoAC"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  1:00:00 "
+      },
+      "various"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T19:29:00+0000"
+      },
+      "Final Fantasy VI",
+      {
+       "rowspan": "2",
+       "content": "bichphuongballz"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:20:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  4:05:00 "
+      },
+      "Any% Sketch Glitch"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-09T23:44:00+0000"
+      },
+      "Super Metroid",
+      {
+       "rowspan": "2",
+       "content": "oatsngoats, sweetnumb, zoast, Behemoth87"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:10:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  0:48:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-10T00:52:00+0000"
+      },
+      "Super Mario RPG: Legend of the Seven Stars",
+      {
+       "rowspan": "2",
+       "content": "LackAttack24"
+      },
+      {
+       "class": "visible-lg text-center",
+       "rowspan": "2",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o text-gdq-red"
+       },
+       "content": "  0:20:00 "
+      }
+     ]
+    },
+    {
+     "class": "second-row",
+     "td": [
+      {
+       "class": "text-right ",
+       "i": {
+        "aria-hidden": "true",
+        "class": "fa fa-clock-o"
+       },
+       "content": "  3:00:00 "
+      },
+      "Any%"
+     ]
+    },
+    {
+     "style": "font-weight: bold",
+     "td": [
+      {
+       "class": "start-time text-right",
+       "content": "2016-07-10T03:52:00Z"
+      },
+      "Finale!",
+      "Everyone still awake"
+     ]
+    }
+   ]
+  }
+ }
+}
