@@ -20,7 +20,7 @@
     height: 100%;
     left:0;
     top:0;
-    -webkit-filter: grayscale(50%);
+    -webkit-filter: grayscale(100%) brightness(50%);
     //background-image: url(http://cdn.movieweb.com/img.news.tops/NEqXIfGQeNQauv_2_b.jpg);
     border-radius: 8px;
   }
@@ -28,7 +28,7 @@
     min-height: 200px;
     z-index: 1;
     &:after {
-      -webkit-filter: grayscale(100%) brightness(25%);
+      -webkit-filter: grayscale(100%) brightness(20%);
       background-color: black;
     }
   }
