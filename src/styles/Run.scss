@@ -1,4 +1,60 @@
 .run {
   position: absolute;
-  width: 100%;
+  left:8px;
+  right: 8px;
+  //background-color: #f9f9f9;
+  background: linear-gradient(to bottom, rgba(0,0,0,1) 0%, transparent 100%);
+  border-radius: 8px;
+  //border: 1px solid #bbc3c5;
+  //box-shadow: 0px 4px 5px 0px rgba(242,242,242,1);
+  padding-left: 8px;
+  padding-right: 8px;
+  font-size: 14px;
+  min-height: 0px;
+  transition: min-height 0.15s ease-out;
+  &:after {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left:0;
+    top:0;
+    -webkit-filter: grayscale(50%);
+    //background-image: url(http://cdn.movieweb.com/img.news.tops/NEqXIfGQeNQauv_2_b.jpg);
+    border-radius: 8px;
+  }
+  &:hover {
+    min-height: 200px;
+    z-index: 1;
+    &:after {
+      -webkit-filter: grayscale(100%) brightness(25%);
+      background-color: black;
+    }
+  }
+}
+
+.run__time {
+  margin-top: -7px;
+
+  display: inline-block;
+  //background: linear-gradient(to right, coral 0%, yellow 100%);
+  background-color: #1076e5;
+  border-radius: 2px;
+  padding: 2px;
+
+  font-family: verdana;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.run__title {
+  //color: white;
+}
+.run__duration {
+  //color: white;
+}
+.run__runner {
+  color: #7B7B7B;
+  font-size: 12px;
 }
