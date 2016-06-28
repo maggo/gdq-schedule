@@ -12,10 +12,25 @@ export default class Scheduler extends Component {
 
     // Build array of days
     runs.forEach((run) => {
-      const runMoment = moment(run.timestamp);
+      const runMoment = moment(run.timestamp).startOf('day');
       let day = runMoment.date();
       if (day === currentDay) {
         days[days.length - 1].runs.push(run);
+
+        let runEndMoment = moment(run.timestamp).add(run.duration).startOf('day')
+        let runEndDay = runEndMoment.date();
+
+        // Copy run to next day if it's ending in the morning
+        if (runEndDay != currentDay) {
+          let newRun = Object.assign({}, run);
+          newRun.start = runEndMoment;
+
+          days.push({
+            moment: runEndMoment,
+            runs: [newRun]
+          });
+          currentDay = runEndDay;
+        }
       } else {
         days.push({
           moment: runMoment,

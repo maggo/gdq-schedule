@@ -10,7 +10,16 @@ export default class Day extends Component {
       <header className="day__header">
         {date.format('dddd Do')}
       </header>
-      {runs.map((run) => <Run key={run.timestamp} name={run.name} timestamp={run.timestamp} duration={run.duration} displayDuration={run.displayDuration} />)}
+      {runs.map((run) => <Run
+        key={run.timestamp}
+        name={run.name}
+        timestamp={run.timestamp}
+        start={run.start}
+        end={run.end}
+        duration={run.duration}
+        displayDuration={run.displayDuration}
+        day={date}
+      />)}
     </div>);
   }
 }
