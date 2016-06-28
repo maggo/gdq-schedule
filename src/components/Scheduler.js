@@ -29,7 +29,9 @@ export default class Scheduler extends Component {
             moment: runEndMoment,
             runs: [newRun]
           });
+
           currentDay = runEndDay;
+          run.end = runEndMoment;
         }
       } else {
         days.push({
