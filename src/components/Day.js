@@ -13,6 +13,7 @@ export default class Day extends Component {
       {runs.map((run) => <Run
         key={run.timestamp}
         name={run.name}
+        runner={run.runner}
         timestamp={run.timestamp}
         start={run.start}
         end={run.end}

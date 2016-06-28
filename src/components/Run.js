@@ -6,18 +6,19 @@ const twentyfour = moment.duration(24, 'hours');
 
 export default class Run extends Component {
   render() {
-    let {name, timestamp, duration, day, start, end} = this.props;
+    let {name, timestamp, duration, day, start, end, runner} = this.props;
     let startedYesterday = timestamp != start;
 
     let positionPercentage = 100 * start.diff(day) / twentyfour;
     let lengthPercentage = 100 * end.diff(start) / twentyfour;
 
     return (<div className="run" style={{top: positionPercentage + '%', height: lengthPercentage + '%'}}>
-      <div className="run__time">
-        {timestamp.format('LT')}
-        <span className="run__duration"> ~{duration.humanize()}</span>
-      </div>
+      <div className="run__time">{timestamp.format('LT')}</div>
       <div className="run__title">{name}</div>
+      <div className="run__content">
+        <div className="run__duration">~{duration.humanize()}</div>
+        <div className="run__runner">{runner}</div>
+      </div>
     </div>);
   }
 }
