@@ -13,8 +13,8 @@ export default class Run extends Component {
     let lengthPercentage = 100 * (displayDuration || duration) / twentyfour;
 
     return (<div className="run" style={{top: positionPercentage + '%', height: lengthPercentage + '%'}}>
-      <div className="run__title">{time.format('LT')} {name}</div>
-      <div className="run__time"></div>
+      <div className="run__time">{time.format('LT')}</div>
+      <div className="run__title">{name}</div>
       <div className="run__duration">~{duration.humanize()}</div>
     </div>);
   }
