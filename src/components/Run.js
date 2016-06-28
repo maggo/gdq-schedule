@@ -8,11 +8,12 @@ export default class Run extends Component {
   render() {
     let {name, timestamp, duration, day, start, end, runner} = this.props;
     let startedYesterday = timestamp != start;
+    let endsTomorrow = start.date() != end.date();
 
     let positionPercentage = 100 * start.diff(day) / twentyfour;
     let lengthPercentage = 100 * end.diff(start) / twentyfour;
 
-    return (<div className="run" style={{top: positionPercentage + '%', height: lengthPercentage + '%'}}>
+    return (<div className={`run${startedYesterday ? ' run--continuing' : ''}${endsTomorrow ? ' run--ending' : ''}`} style={{top: positionPercentage + '%', height: lengthPercentage + '%'}}>
       <div className="run__time">{timestamp.format('LT')}</div>
       <div className="run__title">{name}</div>
       <div className="run__content">
