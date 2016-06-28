@@ -17,7 +17,11 @@ export default class Timeline extends Component {
 
   render() {
     return (<div className="timeline">
-      {this.hours.map((hour) => <div className="timeline__hour" key={hour.percentage} style={{top: hour.percentage + '%'}}>{hour.label}</div>)}
+      {this.hours.map((hour) => <div className="timeline__hour" key={hour.percentage} style={{top: hour.percentage + '%'}}>
+        <div className="timeline__label">
+          {hour.label}
+        </div>
+      </div>)}
     </div>);
   }
 }
