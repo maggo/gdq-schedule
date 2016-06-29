@@ -13,11 +13,14 @@ export default class Run extends Component {
     let positionPercentage = 100 * start.diff(day) / twentyfour;
     let lengthPercentage = 100 * end.diff(start) / twentyfour;
 
-    return (<div className={`run${startedYesterday ? ' run--continuing' : ''}${endsTomorrow ? ' run--ending' : ''}`} style={{top: positionPercentage + '%', height: lengthPercentage + '%'}}>
-      <div className="run__time">{timestamp.format('LT')}</div>
-      <div className="run__title">{name}</div>
+    return (<div className={`run${startedYesterday ? ' run--continuing' : ''}${endsTomorrow ? ' run--ending' : ''}`}
+                 style={{top: positionPercentage + '%', height: lengthPercentage + '%'}}>
+      <div className="run__time">
+        {timestamp.format('LT')}
+        <span className="run__duration">~{duration.humanize()}</span>
+      </div>
       <div className="run__content">
-        <div className="run__duration">~{duration.humanize()}</div>
+        <div className="run__title">{name}</div>
         <div className="run__runner">{runner}</div>
       </div>
     </div>);
