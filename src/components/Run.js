@@ -14,7 +14,7 @@ export default class Run extends Component {
     let lengthPercentage = 100 * end.diff(start) / twentyfour;
 
     return (<div className={`run${startedYesterday ? ' run--continuing' : ''}${endsTomorrow ? ' run--ending' : ''}`}
-                 style={{top: positionPercentage + '%', height: lengthPercentage + '%'}}>
+                 style={{top: positionPercentage + '%', height: `calc(${lengthPercentage}% - 10px)`}}>
       <div className="run__time">
         <span className="run__starttime">{timestamp.format('LT')}</span>
         <span className="run__duration">~{duration.humanize()}</span>

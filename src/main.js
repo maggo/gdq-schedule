@@ -38,7 +38,7 @@ for (let i = 0; i < rows.length - 1; i += 2) {
 
   // Nicer duration display
   if (nextRunStart) {
-    run.end = moment(nextRunStart).subtract(2, 'minute');
+    run.end = moment(nextRunStart);
   }
 
   runs.push(run);
