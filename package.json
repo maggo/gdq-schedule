@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --config webpack.config.js -p",
     "start": "webpack-dev-server --config webpack.config.js --hot --inline --content-base dist/ --history-api-fallback --host 0.0.0.0",
-    "serve": "rm -r dist/* && npm run build && node server.js"
+    "serve": "npm run build && node server.js"
   },
   "author": "Marco Kaul <@maggo>",
   "private": true,
