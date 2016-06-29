@@ -4,14 +4,16 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js",
-    "start": "webpack-dev-server --config webpack.config.js --hot --inline --content-base dist/ --history-api-fallback --host 0.0.0.0"
+    "build": "webpack --config webpack.config.js -p",
+    "start": "webpack-dev-server --config webpack.config.js --hot --inline --content-base dist/ --history-api-fallback --host 0.0.0.0",
+    "serve": "npm run build && node server.js"
   },
   "author": "Marco Kaul <@maggo>",
   "private": true,
   "license": "ISC",
   "dependencies": {
     "moment": "^2.13.0",
+    "node-static": "^0.7.7",
     "react": "^15.1.0",
     "react-addons-css-transition-group": "^15.1.0",
     "react-dom": "^15.1.0",
