@@ -10,17 +10,19 @@ export default class Day extends Component {
       <header className="day__header">
         {date.format('dddd Do')}
       </header>
-      {runs.map((run) => <Run
-        key={run.timestamp}
-        name={run.name}
-        runner={run.runner}
-        timestamp={run.timestamp}
-        start={run.start}
-        end={run.end}
-        duration={run.duration}
-        displayDuration={run.displayDuration}
-        day={date}
-      />)}
+      <div className="day__content">
+        {runs.map((run) => <Run
+          key={run.timestamp}
+          name={run.name}
+          runner={run.runner}
+          timestamp={run.timestamp}
+          start={run.start}
+          end={run.end}
+          duration={run.duration}
+          displayDuration={run.displayDuration}
+          day={date}
+        />)}
+      </div>
     </div>);
   }
 }

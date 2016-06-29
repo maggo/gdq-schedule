@@ -1,19 +1,21 @@
 .day {
   flex: 1;
-  position: relative;
+  display: flex;
+  flex-direction: column;
   font-size: 1rem;
   //background-color: rgb(50,50,50);
   //border: 1px solid rgb(50,50,50);
-
+  margin-top: -2rem;
 }
 
 .day__header {
-  position: absolute;
-  top: -10px;
-  left: 8px;
-  display: inline-block;
-  //background-color: white;
-
+  padding: .5rem;
   font-family: verdana;
   font-size: 14px;
+  height: 2rem;
+}
+
+.day__content {
+  flex: 1;
+  position: relative;
 }
