@@ -9,6 +9,7 @@
   min-height: 0px;
   transition: min-height 0.15s ease-out;
   cursor: pointer;
+
   &:after {
     content: "";
     z-index: -1;
@@ -22,7 +23,9 @@
     //background-size: cover;
     border-radius: 8px;
   }
+
   &:hover {
+    opacity: 1;
     min-height: 200px;
     z-index: 1;
     background: linear-gradient(to bottom, #001a35 0%, transparent 120%);
@@ -69,4 +72,12 @@
 .run__runner {
   color: #7B7B7B;
   font-size: 12px;
+}
+
+.run--inactive {
+  opacity: .3;
+}
+
+.run--highlight {
+  box-shadow: 0 0 10px white;
 }

@@ -19,3 +19,11 @@
   flex: 1;
   position: relative;
 }
+
+.day__now {
+  position: absolute;
+  padding-top: 50vh;
+  margin-top: -50vh;
+  border-bottom: 4px solid red;
+  width: 100%;
+}
