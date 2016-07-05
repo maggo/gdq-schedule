@@ -84,8 +84,8 @@ export default class Scheduler extends Component {
         <button onClick={() => this.setState({displayFavorites: !this.state.displayFavorites})}>Toggle favorites</button>
         Click runs to mark them as favorites
         <p className="scheduler__info">
-          This page is in no way affiliated with Games Done Quick,<br />
-          I'm just stealing their schedule. Made by <a target="_blank" href="https://twitter.com/mediaquery">@mediaquery</a>
+          This page is in no way affiliated with Games Done Quick, I'm just stealing their schedule. <br />
+          Made by <a target="_blank" href="https://twitter.com/mediaquery">@mediaquery</a>. Please tweet me any problems and your feedback!
         </p>
       </header>
       <main className="scheduler__container">
