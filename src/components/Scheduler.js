@@ -75,12 +75,20 @@ export default class Scheduler extends Component {
 
     return (<div className="scheduler">
       <header className="scheduler__header">
-        Header
+        <button onClick={() => this.setState({displayFavorites: !this.state.displayFavorites})}>Show favorites</button>
       </header>
       <main className="scheduler__container">
         <div className="scheduler__content">
           <Timeline />
-          {days.map((day) => <Day key={day.moment} date={day.moment} runs={day.runs} onRunClick={this.onRunClick.bind(this)} />)}
+          {days.map((day) =>
+            <Day
+              key={day.moment}
+              date={day.moment}
+              runs={day.runs}
+              onRunClick={this.onRunClick.bind(this)}
+              displayFavorites={this.state.displayFavorites}
+            />
+          )}
         </div>
       </main>
     </div>);

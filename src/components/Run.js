@@ -5,8 +5,6 @@ import '../styles/Run.scss';
 const twentyfour = moment.duration(24, 'hours');
 const NOW = moment();
 
-console.log(NOW.format('L'))
-
 export default class Run extends Component {
   render() {
     let {name, timestamp, duration, day, start, end, runner, favorite} = this.props;
@@ -18,11 +16,15 @@ export default class Run extends Component {
 
     let status = null;
 
-    if (timestamp < NOW) {
-      status = 'inactive';
+    if(this.props.displayFavorites) {
+      status = favorite ? 'highlight': 'inactive';
+    } else {
+      if (timestamp < NOW) {
+        status = 'inactive';
 
-      if (NOW < moment(timestamp).add(duration)) {
-        status = 'highlight';
+        if (NOW < moment(timestamp).add(duration)) {
+          status = 'highlight';
+        }
       }
     }
 

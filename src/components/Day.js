@@ -8,6 +8,10 @@ const NOW = moment();
 
 export default class Day extends Component {
   componentDidMount() {
+    this.scrollToRun();
+  }
+
+  scrollToRun() {
     if (this.refs.now) {
       this.refs.now.scrollIntoView();
     }
@@ -38,6 +42,7 @@ export default class Day extends Component {
           displayDuration={run.displayDuration}
           day={date}
           favorite={run.favorite}
+          displayFavorites={this.props.displayFavorites}
           onClick={() => this.props.onRunClick.call(this, run)}
         />)}
       </div>
