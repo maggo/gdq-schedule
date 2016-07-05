@@ -3,13 +3,13 @@ import moment from 'moment';
 import '../styles/Run.scss';
 
 const twentyfour = moment.duration(24, 'hours');
-const NOW = moment().month(6).date(5);
+const NOW = moment();
 
 console.log(NOW.format('L'))
 
 export default class Run extends Component {
   render() {
-    let {name, timestamp, duration, day, start, end, runner} = this.props;
+    let {name, timestamp, duration, day, start, end, runner, favorite} = this.props;
     let startedYesterday = timestamp != start;
     let endsTomorrow = start.date() != end.date();
 
@@ -26,8 +26,10 @@ export default class Run extends Component {
       }
     }
 
+    if (favorite) status = 'favorite';
+
     return (<div className={`run${startedYesterday ? ' run--continuing' : ''}${endsTomorrow ? ' run--ending' : ''}${status ? ' run--' + status : ''}`}
-                 style={{top: positionPercentage + '%', height: `calc(${lengthPercentage}% - 10px)`}}>
+                 style={{top: positionPercentage + '%', height: `calc(${lengthPercentage}% - 10px)`}} onClick={this.props.onClick}>
       <div className="run__time">
         <span className="run__starttime">{timestamp.format('LT')}</span>
         <span className="run__duration">~{duration.humanize()}</span>

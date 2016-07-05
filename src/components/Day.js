@@ -4,7 +4,7 @@ import moment from 'moment';
 import '../styles/Day.scss';
 
 const TWENTYFOUR = moment.duration(24, 'hours');
-const NOW = moment().month(6).date(5);
+const NOW = moment();
 
 export default class Day extends Component {
   componentDidMount() {
@@ -37,6 +37,8 @@ export default class Day extends Component {
           duration={run.duration}
           displayDuration={run.displayDuration}
           day={date}
+          favorite={run.favorite}
+          onClick={() => this.props.onRunClick.call(this, run)}
         />)}
       </div>
     </div>);

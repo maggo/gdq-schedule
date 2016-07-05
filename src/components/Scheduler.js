@@ -4,9 +4,36 @@ import Timeline from './Timeline';
 import moment from "moment";
 import '../styles/Scheduler.scss';
 
+let favorites = JSON.parse(localStorage.getItem('favorites')) || {};
+
 export default class Scheduler extends Component {
+  constructor(props) {
+    super();
+
+    this.state = {
+      runs: props.runs
+    }
+  }
+
+  onRunClick(run) {
+    console.log('Run click', run);
+
+    if (run.favorite) {
+      run.favorite = false;
+      favorites[run.name] = false;
+    } else {
+      run.favorite = true;
+      favorites[run.name] = true;
+    }
+
+    localStorage.setItem('favorites', JSON.stringify(favorites));
+    this.setState({
+      runs: this.state.runs
+    })
+  }
+
   render() {
-    let {runs} = this.props;
+    let {runs} = this.state;
     let days = [];
     let currentDay = null;
 
@@ -40,6 +67,10 @@ export default class Scheduler extends Component {
         });
         currentDay = day;
       }
+
+      if (favorites[run.name]) {
+        run.favorite = true;
+      }
     });
 
     return (<div className="scheduler">
@@ -49,7 +80,7 @@ export default class Scheduler extends Component {
       <main className="scheduler__container">
         <div className="scheduler__content">
           <Timeline />
-          {days.map((day) => <Day key={day.moment} date={day.moment} runs={day.runs} />)}
+          {days.map((day) => <Day key={day.moment} date={day.moment} runs={day.runs} onRunClick={this.onRunClick.bind(this)} />)}
         </div>
       </main>
     </div>);
