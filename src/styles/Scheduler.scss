@@ -6,6 +6,13 @@
 
 .scheduler__header {
   padding: 1rem;
+  border-bottom: 1px solid black;
+}
+
+.scheduler__info {
+  float: right;
+  margin: 0;
+  font-size: 0.7em;
 }
 
 .scheduler__container {
