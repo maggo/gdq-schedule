@@ -16,6 +16,9 @@ export default class Scheduler extends Component {
   }
 
   onRunClick(run) {
+    // Get real run instead of clone
+    run = this.state.runs.filter((filterRun) => filterRun.name == run.name)[0];
+
     if (run.favorite) {
       run.favorite = false;
       favorites[run.name] = false;
@@ -51,6 +54,10 @@ export default class Scheduler extends Component {
           let newRun = Object.assign({}, run);
           newRun.start = runEndMoment;
 
+          if (favorites[newRun.name]) {
+            newRun.favorite = true;
+          }
+
           days.push({
             moment: runEndMoment,
             runs: [newRun]
@@ -74,7 +81,8 @@ export default class Scheduler extends Component {
 
     return (<div className="scheduler">
       <header className="scheduler__header">
-        <button onClick={() => this.setState({displayFavorites: !this.state.displayFavorites})}>Show favorites</button>
+        <button onClick={() => this.setState({displayFavorites: !this.state.displayFavorites})}>Toggle favorites</button>
+        Click runs to mark them as favorites
       </header>
       <main className="scheduler__container">
         <div className="scheduler__content">

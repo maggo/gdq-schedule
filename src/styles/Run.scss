@@ -83,4 +83,13 @@
 .run--ending {
   bottom: 0;
   top: auto !important;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: 1px solid #252525;
+}
+
+.run--continuing {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-top: 1px solid #252525;
 }
