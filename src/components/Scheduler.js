@@ -16,8 +16,6 @@ export default class Scheduler extends Component {
   }
 
   onRunClick(run) {
-    console.log('Run click', run);
-
     if (run.favorite) {
       run.favorite = false;
       favorites[run.name] = false;
@@ -39,6 +37,7 @@ export default class Scheduler extends Component {
 
     // Build array of days
     runs.forEach((run) => {
+      if (!run.originalEnd) run.originalEnd = moment(run.end);
       const runMoment = moment(run.timestamp).startOf('day');
       let day = runMoment.date();
       if (day === currentDay) {

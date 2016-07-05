@@ -38,6 +38,7 @@ export default class Day extends Component {
           timestamp={run.timestamp}
           start={run.start}
           end={run.end}
+          originalEnd={run.originalEnd}
           duration={run.duration}
           displayDuration={run.displayDuration}
           day={date}

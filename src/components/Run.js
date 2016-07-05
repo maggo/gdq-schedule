@@ -7,12 +7,12 @@ const NOW = moment();
 
 export default class Run extends Component {
   render() {
-    let {name, timestamp, duration, day, start, end, runner, favorite} = this.props;
+    let {name, timestamp, duration, day, start, end, runner, favorite, originalEnd} = this.props;
     let startedYesterday = timestamp != start;
     let endsTomorrow = start.date() != end.date();
 
     let positionPercentage = 100 * start.diff(day) / twentyfour;
-    let lengthPercentage = 100 * end.diff(start) / twentyfour;
+    let lengthPercentage = 100 * (startedYesterday ? originalEnd : end).diff(start) / twentyfour;
 
     let status = null;
 
