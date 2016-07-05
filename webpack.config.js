@@ -7,7 +7,7 @@ module.exports = () => {
     },
     output: {
       path: './dist',
-      filename: '[name].bundle.js',
+      filename: '[name].bundle.[hash].js',
       publicPath: '/'
     },
     module: {
