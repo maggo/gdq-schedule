@@ -1,8 +1,33 @@
 <html>
 <head>
   <title>GDQ Scheduler</title>
+  <meta charset="UTF-8">
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Hind+Madurai');
+    body {
+      margin: 0;
+      background-color: #141414;
+      color: #9f9f9f;
+      font-family: 'Hind Madurai', sans-serif;
+    }
+    *, *:before, *:after {
+      box-sizing:border-box;
+    }
+
+    #app-container {
+      height: 100vh;
+      width: 100vw;
+    }
+
+    .loader {
+      text-align: center;
+      line-height: 100vh;
+    }
+  </style>
 </head>
 <body>
-<div id="app-container"></div>
+<div id="app-container">
+  <h1 class="loader">Loading schedule…</h1>
+</div>
 </body>
 </html>
