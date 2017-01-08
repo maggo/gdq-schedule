@@ -1,18 +1,13 @@
-import sampleData from 'json!./misc/sample.json';
 import Unescaper from './utils/unescaper';
 import React from 'react';
-import {render} from 'react-dom';
+import { render } from 'react-dom';
 import Scheduler from './components/Scheduler';
 import moment from 'moment';
-import './styles/global.scss';
 
 let runs = [];
 
 const unescaper = new Unescaper();
-
-const request = new XMLHttpRequest();
-request.addEventListener('load', (e) => {
-  const data = JSON.parse(e.target.responseText);
+const resolve = (data) => {
   const rows = data.query.results.tr;
 
   for (let i = 0; i < rows.length - 1; i += 2) {
@@ -64,7 +59,17 @@ request.addEventListener('load', (e) => {
   });
 
   render(<Scheduler runs={runs} />, document.getElementById('app-container'));
-});
-request.open("GET", "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20html%20where%20url%3D%22https%3A%2F%2Fgamesdonequick.com%2Fschedule%22%20and%20xpath%3D'%2F%2F*%5B%40id%3D%22runTable%22%5D%2Ftbody%2Ftr'&format=json&callback=");
-request.send();
+};
+const getData = () => {
+  const request = new XMLHttpRequest();
 
+  request.addEventListener('load', (e) => {
+    var data = JSON.parse(e.target.responseText);
+    resolve(data);
+  });
+
+  request.open("GET", "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20html%20where%20url%3D%22https%3A%2F%2Fgamesdonequick.com%2Fschedule%22%20and%20xpath%3D'%2F%2F*%5B%40id%3D%22runTable%22%5D%2Ftbody%2Ftr'&format=json&callback=");
+  request.send();
+};
+
+getData();

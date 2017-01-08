@@ -1,4 +1,5 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const path = require('path');
 
 module.exports = () => {
   return {
@@ -6,7 +7,7 @@ module.exports = () => {
       main: './src/main.js'
     },
     output: {
-      path: './dist',
+      path: path.resolve(__dirname, 'dist'),
       filename: '[name].bundle.[hash].js',
       publicPath: '/'
     },
@@ -14,11 +15,11 @@ module.exports = () => {
       loaders: [
         {
           test: /.js$/,
-          loader: 'babel'
+          loader: 'babel-loader'
         },
         {
           test: /.scss$/,
-          loader: 'style!css!sass'
+          loader: 'style-loader!css-loader!sass-loader'
         }
       ]
     },
