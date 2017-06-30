@@ -8,27 +8,28 @@ let runs = [];
 
 const unescaper = new Unescaper();
 const resolve = (data) => {
-  const rows = data.query.results.tr;
+  const container = document.createElement('tbody');
+  container.innerHTML = data.query.results.result;
 
-  for (let i = 0; i < rows.length - 1; i += 2) {
-    let row1 = rows[i].td;
-    let row2 = rows[i+1].td;
-    let nextRunStart = rows[i+2].td && rows[i+2].td[0].content;
+  for (let i = 0; i < container.children.length - 1; i += 2) {
+    let row1 = container.children[i].children;
+    let row2 = container.children[i+1].children;
+    let nextRunStart = container.children[i+2].children && container.children[i+2].children[0].textContent;
 
-    let timestamp = moment(row1[0].content.trim());
-    let duration = moment.duration(row2[0].content.trim());
+    let timestamp = moment(row1[0].textContent.trim());
+    let duration = moment.duration(row2[0].textContent.trim());
 
-    if (row1[3].content) {
-      let setupDuration = moment.duration(row1[3].content.trim());
+    if (row1[3].textContent) {
+      let setupDuration = moment.duration(row1[3].textContent.trim());
       duration.add(setupDuration);
     }
 
     let run = {
       timestamp: timestamp,
-      name: unescaper.unescape(row1[1].trim()),
-      runner: unescaper.unescape(row1[2].content.trim()),
-      setup: row1[3].content ? row1[3].content.trim() : null,
-      estimate: row2[0].content.trim(),
+      name: unescaper.unescape(row1[1].textContent.trim()),
+      runner: unescaper.unescape(row1[2].textContent.trim()),
+      setup: row1[3].textContent ? row1[3].textContent.trim() : null,
+      estimate: row2[0].textContent.trim(),
       duration: duration,
       start: timestamp,
       end: moment(timestamp).add(duration)
@@ -43,19 +44,19 @@ const resolve = (data) => {
   }
 
   // Finale
-  let finale = rows[rows.length - 1].td;
+  let finale = container.children[container.children.length - 1].children;
 
-  let finaleTimestamp = moment(finale[0].content.trim())
+  let finaleTimestamp = moment(finale[0].textContent.trim())
 
   runs.push({
     timestamp: finaleTimestamp,
-    name: unescaper.unescape(finale[1].trim()),
-    runner: unescaper.unescape(finale[2].trim()),
+    name: unescaper.unescape(finale[1].textContent.trim()),
+    runner: unescaper.unescape(finale[2].textContent.trim()),
     setup: null,
     estimate: null,
     duration: moment.duration(30, 'minutes'),
     start: finaleTimestamp,
-    end: moment(finale[0].content.trim()).add(30, 'minutes')
+    end: moment(finale[0].textContent.trim()).add(30, 'minutes')
   });
 
   render(<Scheduler runs={runs} />, document.getElementById('app-container'));
