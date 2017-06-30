@@ -1,6 +1,6 @@
 # *GDQ Scheduling App
 
-This app lets you easily select your favorite SGDQ speedruns and get a calendar-like overview of past and future runs.
+This app lets you easily select your favorite *GDQ speedruns and get a calendar-like overview of past and future runs. Never miss a run again because you fell asleep at the wrong time!
 
 >Disclaimer:
 >
