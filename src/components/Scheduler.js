@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Day from './Day';
 import Timeline from './Timeline';
-import moment from "moment";
+import moment from 'moment';
 import '../styles/Scheduler.scss';
 
 let favorites = JSON.parse(localStorage.getItem('favorites')) || {};
@@ -12,12 +12,12 @@ export default class Scheduler extends Component {
 
     this.state = {
       runs: props.runs
-    }
+    };
   }
 
   onRunClick(run) {
     // Get real run instead of clone
-    run = this.state.runs.filter((filterRun) => filterRun.name == run.name)[0];
+    run = this.state.runs.filter(filterRun => filterRun.name == run.name)[0];
 
     if (run.favorite) {
       run.favorite = false;
@@ -30,23 +30,25 @@ export default class Scheduler extends Component {
     localStorage.setItem('favorites', JSON.stringify(favorites));
     this.setState({
       runs: this.state.runs
-    })
+    });
   }
 
   render() {
-    let {runs} = this.state;
+    let { runs } = this.state;
     let days = [];
     let currentDay = null;
 
     // Build array of days
-    runs.forEach((run) => {
+    runs.forEach(run => {
       if (!run.originalEnd) run.originalEnd = moment(run.end);
       const runMoment = moment(run.timestamp).startOf('day');
       let day = runMoment.date();
       if (day === currentDay) {
         days[days.length - 1].runs.push(run);
 
-        let runEndMoment = moment(run.timestamp).add(run.duration).startOf('day')
+        let runEndMoment = moment(run.timestamp)
+          .add(run.duration)
+          .startOf('day');
         let runEndDay = runEndMoment.date();
 
         // Copy run to next day if it's ending in the morning
@@ -79,29 +81,41 @@ export default class Scheduler extends Component {
       }
     });
 
-    return (<div className="scheduler">
-      <header className="scheduler__header">
-        <button onClick={() => this.setState({displayFavorites: !this.state.displayFavorites})}>Toggle favorites</button>
-        Click runs to mark them as favorites
-        <p className="scheduler__info">
-          This page is in no way affiliated with Games Done Quick, I'm just stealing their schedule. <br />
-          Made by <a target="_blank" href="https://twitter.com/mediaquery">@mediaquery</a>. Please tweet me any problems and your feedback!
-        </p>
-      </header>
-      <main className="scheduler__container">
-        <div className="scheduler__content">
-          <Timeline />
-          {days.map((day) =>
-            <Day
-              key={day.moment}
-              date={day.moment}
-              runs={day.runs}
-              onRunClick={this.onRunClick.bind(this)}
-              displayFavorites={this.state.displayFavorites}
-            />
-          )}
-        </div>
-      </main>
-    </div>);
+    return (
+      <div className="scheduler">
+        <header className="scheduler__header">
+          <button
+            onClick={() =>
+              this.setState({ displayFavorites: !this.state.displayFavorites })
+            }
+          >
+            Toggle favorites
+          </button>
+          Click runs to mark them as favorites
+          <p className="scheduler__info">
+            This page is in no way affiliated with Games Done Quick, I'm just
+            stealing their schedule. <br />
+            Made by{' '}
+            <a target="_blank" href="https://twitter.com/mediaquery">
+              @mediaquery
+            </a>. Please tweet me any problems and your feedback!
+          </p>
+        </header>
+        <main className="scheduler__container">
+          <div className="scheduler__content">
+            <Timeline />
+            {days.map(day => (
+              <Day
+                key={day.moment}
+                date={day.moment}
+                runs={day.runs}
+                onRunClick={this.onRunClick.bind(this)}
+                displayFavorites={this.state.displayFavorites}
+              />
+            ))}
+          </div>
+        </main>
+      </div>
+    );
   }
 }
