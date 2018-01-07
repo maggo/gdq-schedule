@@ -98,7 +98,9 @@ export default class Scheduler extends Component {
             Made by{' '}
             <a target="_blank" href="https://twitter.com/mediaquery">
               @mediaquery
-            </a>. Please tweet me any problems and your feedback!
+            </a>, schedule mirror by{' '}
+            <a href="https://horaro.org/agdq/2018">horaro.org</a>. Please tweet
+            me any problems or feedback!
           </p>
         </header>
         <main className="scheduler__container">
