@@ -49,8 +49,6 @@ const resolve = data => {
     end: moment(runs[runs.length - 1].end).add(30, 'minutes')
   });
 
-  console.log(runs);
-
   render(<Scheduler runs={runs} />, document.getElementById('app-container'));
 };
 
