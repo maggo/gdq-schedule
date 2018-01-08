@@ -1,18 +1,21 @@
 <html>
+
 <head>
   <title>Next *GDQ Schedule</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="UTF-8">
   <style>
-    @import url('https://fonts.googleapis.com/css?family=Hind+Madurai');
     body {
       margin: 0;
       background-color: #141414;
       color: #9f9f9f;
       font-family: 'Hind Madurai', sans-serif;
     }
-    *, *:before, *:after {
-      box-sizing:border-box;
+
+    *,
+    *:before,
+    *:after {
+      box-sizing: border-box;
     }
 
     #app-container {
@@ -45,21 +48,29 @@
       color: inherit;
     }
   </style>
+  <link href="https://fonts.googleapis.com/css?family=Hind+Madurai" rel="stylesheet">
   <meta name="google-site-verification" content="jOuZhbiZyv5bar8nyapp5TXK28Y8zA5Le05MuLQkRYE" />
 </head>
+
 <body>
-<div id="app-container">
-  <h1 class="loader">Loading schedule…</h1>
-</div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  <div id="app-container">
+    <h1 class="loader">Loading schedule…</h1>
+  </div>
+  <script>
+    const doNotTrack = navigator.doNotTrack === '1' || window.doNotTrack === '1' || window.doNotTrack === 'yes' || navigator.msDoNotTrack === '1';
 
-  ga('create', 'UA-80323257-1', 'auto');
-  ga('send', 'pageview');
+    if (!doNotTrack) {
+      (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+          (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-</script>
+      ga('create', 'UA-80323257-1', 'auto');
+      ga('send', 'pageview');
+    }
+  </script>
 </body>
+
 </html>
