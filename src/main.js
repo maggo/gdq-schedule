@@ -1,4 +1,3 @@
-import Unescaper from './utils/unescaper';
 import React from 'react';
 import { render } from 'react-dom';
 import Scheduler from './components/Scheduler';
@@ -7,7 +6,6 @@ import jsonp from './utils/jsonp';
 
 let runs = [];
 
-const unescaper = new Unescaper();
 const resolve = data => {
   for (let i = 0; i < data.data.items.length; i++) {
     let runData = data.data.items[i];

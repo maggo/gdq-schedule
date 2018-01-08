@@ -1,7 +1,9 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path');
+const webpack = require('webpack');
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
-module.exports = () => {
+module.exports = env => {
   return {
     entry: {
       main: './src/main.js'
@@ -12,9 +14,10 @@ module.exports = () => {
       publicPath: '/'
     },
     module: {
-      loaders: [
+      rules: [
         {
           test: /.js$/,
+          exclude: /node_modules/,
           loader: 'babel-loader'
         },
         {
@@ -26,7 +29,9 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './src/index.html'
-      })
+      }),
+      new webpack.optimize.ModuleConcatenationPlugin(),
+      new webpack.ContextReplacementPlugin(/moment[\/\\]locale$/, /en/)
     ]
-  }
-}
+  };
+};
