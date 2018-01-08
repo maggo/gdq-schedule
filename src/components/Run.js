@@ -6,6 +6,14 @@ const twentyfour = moment.duration(24, 'hours');
 const NOW = moment();
 
 export default class Run extends Component {
+  componentDidMount() {
+    if (this.currentRun) {
+      const container = document.querySelector('.scheduler__container');
+      const position = this.currentRun.getBoundingClientRect();
+      container.scrollTo(position.left - 68, this.currentRun.offsetTop - 48);
+    }
+  }
+
   render() {
     let {
       name,
@@ -26,6 +34,7 @@ export default class Run extends Component {
       100 * (startedYesterday ? originalEnd : end).diff(start) / twentyfour;
 
     let status = null;
+    let current = false;
 
     if (this.props.displayFavorites) {
       status = favorite ? 'highlight' : 'inactive';
@@ -35,6 +44,7 @@ export default class Run extends Component {
 
         if (NOW < moment(timestamp).add(duration)) {
           status = 'highlight';
+          current = true;
         }
       }
     }
@@ -51,6 +61,7 @@ export default class Run extends Component {
           height: `calc(${lengthPercentage}% - 10px)`
         }}
         onClick={this.props.onClick}
+        ref={ref => (this.currentRun = current && ref)}
       >
         <div className="run__time">
           <span className="run__starttime">{timestamp.format('LT')}</span>

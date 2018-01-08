@@ -7,16 +7,6 @@ const TWENTYFOUR = moment.duration(24, 'hours');
 const NOW = moment();
 
 export default class Day extends Component {
-  componentDidMount() {
-    this.scrollToRun();
-  }
-
-  scrollToRun() {
-    if (this.refs.now) {
-      this.refs.now.scrollIntoView();
-    }
-  }
-
   render() {
     let { date, runs } = this.props;
     let now = false;
