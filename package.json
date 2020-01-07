@@ -37,9 +37,5 @@
   },
   "prettier": {
     "singleQuote": true
-  },
-  "engines": {
-    "node": "10",
-    "yarn": "1"
   }
 }
