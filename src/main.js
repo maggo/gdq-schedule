@@ -51,7 +51,7 @@ const resolve = data => {
 };
 
 const getData = () => {
-  jsonp('https://horaro.org/-/api/v1/schedules/6d11x163bn5bcu7ab5', data => {
+  jsonp('https://horaro.org/-/api/v1/schedules/6611avc8loc6is7ab6', data => {
     resolve(data);
   });
 };
